@@ -1,0 +1,13 @@
+body {
+  font-family: "signika";
+  margin: 0;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: burtons;
+  src: url("./Burtons.otf");
+}
+@font-face {
+  font-family: signika;
+  src: url("./Second.ttf");
+}
