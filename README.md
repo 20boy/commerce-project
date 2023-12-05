@@ -1,5 +1,8 @@
 # e-commerce-project
 Commerce Project made with react and styled-components
+## Check it out
+You can check it out at https://commerce-project-qj9t.vercel.app/
+Functionalities(back-end) are not completed tho
 ## Installation
 It's made with Vite so install with npm run dev
 ```bash
